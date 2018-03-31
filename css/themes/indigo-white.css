@@ -1,6 +1,7 @@
 /* Theme */
 
 main {
+<<<<<<< HEAD
   background: #03001e;
   /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #03001e, #7303c0, #ec38bc, #fdeff9);
@@ -17,3 +18,16 @@ main {
 .icons-social a svg path {
   fill: #FAFAFA;
 }
+=======
+	background: #303F9F;
+	color: #FAFAFA;
+}
+
+.icons-social a {
+	color: #FAFAFA;
+}
+
+.icons-social a svg path{
+	fill: #FAFAFA;
+}
+>>>>>>> 5ab87640c5c2bb6f9fdff65cfc7ef3f3ca169e4c
